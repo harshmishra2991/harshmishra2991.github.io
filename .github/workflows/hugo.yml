@@ -1,18 +1,22 @@
-name: Deploy Hugo site
+name: Build and Deploy Hugo Site
 
 on:
   push:
     branches:
-      - main
+      - src
+
+permissions:
+  contents: write
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v4
         with:
+          ref: src
           submodules: true
           fetch-depth: 0
 
@@ -21,18 +25,15 @@ jobs:
         with:
           hugo-version: latest
 
-      - name: Build
+      - name: Build site
         run: hugo --minify
 
-      - name: Deploy to main branch
-        run: |
-          rm -rf *
-          mv public/* .
-          rm -rf public
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "Deploy site"
-          git push
+      - name: Deploy to main
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: main
+
 
 
