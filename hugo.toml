@@ -1,4 +1,5 @@
 baseURL = 'https://harshmishra2991.github.io/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Harsh Mishra'
 theme = 'PaperMod'
