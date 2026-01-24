@@ -1,5 +1,5 @@
 +++
-date = '2026-01-224T23:04:51+05:30'
+date = '2026-01-24'
 draft = false
 title = 'Should you fight opinions?'
 +++
