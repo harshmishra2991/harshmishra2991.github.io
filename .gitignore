@@ -1,0 +1,11 @@
+# Hugo build output
+public/
+resources/
+
+# Hugo lock file
+.hugo_build.lock
+
+# OS / editor noise
+.DS_Store
+*.log
+.DS_Store
