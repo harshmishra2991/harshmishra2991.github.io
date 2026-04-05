@@ -1,0 +1,9 @@
+{
+  "name": "pming-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scripts for the weekly PMing content curation pipeline",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

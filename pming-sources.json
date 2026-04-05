@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Marily Nika",
+    "url": "https://marily.substack.com/",
+    "feed": "https://marily.substack.com/feed"
+  },
+  {
+    "name": "The Beautiful Mess (John Cutler)",
+    "url": "https://cutlefish.substack.com/",
+    "feed": "https://cutlefish.substack.com/feed"
+  },
+  {
+    "name": "Product Compass",
+    "url": "https://www.productcompass.pm/",
+    "feed": "https://www.productcompass.pm/feed"
+  },
+  {
+    "name": "Data Science Process Alliance",
+    "url": "https://www.datascience-pm.com/blog/",
+    "feed": "https://www.datascience-pm.com/blog/feed/"
+  },
+  {
+    "name": "LogRocket Product Management",
+    "url": "https://blog.logrocket.com/product-management/",
+    "feed": "https://blog.logrocket.com/product-management/feed/"
+  },
+  {
+    "name": "Instacart Tech Blog",
+    "url": "https://tech.instacart.com/",
+    "feed": "https://tech.instacart.com/feed"
+  },
+  {
+    "name": "Eugene Yan",
+    "url": "https://eugeneyan.com/writing/",
+    "feed": "https://eugeneyan.com/rss/"
+  },
+  {
+    "name": "Multithreaded (Stitch Fix)",
+    "url": "https://multithreaded.stitchfix.com/blog/",
+    "feed": "https://multithreaded.stitchfix.com/feed.xml"
+  },
+  {
+    "name": "dbt Blog",
+    "url": "https://www.getdbt.com/blog",
+    "feed": "https://www.getdbt.com/blog/rss.xml"
+  },
+  {
+    "name": "Stratechery",
+    "url": "https://stratechery.com/",
+    "feed": "https://stratechery.com/feed/"
+  },
+  {
+    "name": "Ask Gib",
+    "url": "https://askgib.substack.com/",
+    "feed": "https://askgib.substack.com/feed"
+  },
+  {
+    "name": "Andrew Chen",
+    "url": "https://andrewchen.substack.com/",
+    "feed": "https://andrewchen.substack.com/feed"
+  },
+  {
+    "name": "ByteByteGo",
+    "url": "https://blog.bytebytego.com/",
+    "feed": "https://blog.bytebytego.com/feed"
+  }
+]
