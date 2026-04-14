@@ -168,6 +168,28 @@ function formatDateISO(date) {
   return `${y}-${m}-${d}`;
 }
 
+/**
+ * Extract all links from previously generated weekly curation posts.
+ */
+function getPreviouslyPublishedLinks() {
+  const links = new Set();
+  if (!fs.existsSync(POSTS_DIR)) return links;
+  
+  const files = fs.readdirSync(POSTS_DIR);
+  for (const file of files) {
+    if (file.endsWith("-weekly-pming.md")) {
+      const content = fs.readFileSync(path.join(POSTS_DIR, file), "utf-8");
+      // Look for Markdown links: [Title](https://...)
+      const regex = /\]\((https?:\/\/[^\s\)]+)\)/g;
+      let match;
+      while ((match = regex.exec(content)) !== null) {
+        links.add(match[1]);
+      }
+    }
+  }
+  return links;
+}
+
 // ---------------------------------------------------------------------------
 // Main pipeline
 // ---------------------------------------------------------------------------
@@ -179,6 +201,10 @@ async function main() {
   // 1. Load sources
   const sources = JSON.parse(fs.readFileSync(SOURCES_FILE, "utf-8"));
   console.log(`Loaded ${sources.length} sources from pming-sources.json\n`);
+
+  // Load previously published links to avoid duplicates
+  const publishedLinks = getPreviouslyPublishedLinks();
+  console.log(`Loaded ${publishedLinks.size} previously published links to prevent duplicates.\n`);
 
   const parser = new Parser({
     timeout: FEED_TIMEOUT_MS,
@@ -204,7 +230,10 @@ async function main() {
         })
         .filter((item) => {
           if (!item._parsedDate) return false;
-          return item._parsedDate >= cutoffDate;
+          if (item._parsedDate < cutoffDate) return false;
+          const link = item.link || source.url;
+          if (publishedLinks.has(link)) return false;
+          return true;
         });
 
       if (items.length === 0) {
@@ -345,7 +374,7 @@ async function main() {
   return filepath;
 }
 
-main().catch((err) => {
+main().then(() => process.exit(0)).catch((err) => {
   console.error("Fatal error:", err);
   process.exit(1);
 });
