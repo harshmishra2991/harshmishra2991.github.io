@@ -21,7 +21,7 @@ A log of investing/finance resources — quant ideas, stock research, financial 
 
 ### GPT Portfolio White Paper
 - **Date:** 2025-01-11 `#reference`
-- **Media:** [The GPT Portfolio White Paper.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000434-The%20GPT%20Portfolio%20White%20Paper.pdf)
+- **Media:** [The GPT Portfolio White Paper.pdf](/wiki-pdfs/GPT_Portfolio_White_Paper.pdf)
 
 ### Use ChatGPT to Pick Stocks
 - **Date:** 2025-01-11 `#research`
@@ -65,7 +65,7 @@ A log of investing/finance resources — quant ideas, stock research, financial 
 
 ### Inventory Optimization: Models & Simulations (Book)
 - **Date:** 2025-07-09 `#reference`
-- **Media:** [inventory-optimization.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000464-dokumen.pub_inventory-optimization-models-and-simulations-9783110673944-9783110673913-c-7212056.pdf)
+- **Media:** `Inventory-Optimization-Models-Simulations.pdf` *(local file)*
 
 ### Buco Capital Thread
 - **Date:** 2025-08-04 `#research`
@@ -111,11 +111,11 @@ A log of investing/finance resources — quant ideas, stock research, financial 
 
 ### Fundamental Analysis Module 3
 - **Date:** 2024-01-29 `#reference`
-- **Media:** [Module 3 Fundamental Analysis.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000239-Module%203_Fundamental%20Analysis%20(1).pdf)
+- **Media:** `Module3_Fundamental_Analysis.pdf` *(local file)*
 
 ### HDFC MF Yearbook 2026
 - **Date:** 2026-01-27 `#reference`
-- **Media:** [HDFC MF - Yearbook 2026.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000527-HDFC%20MF%20-%20Yearbook%202026.pdf)
+- **Media:** `HDFC_MF_Yearbook_2026.pdf` *(local file)*
 
 ### India's First Beauty Report (market analysis)
 - **Date:** 2024-09-04 `#research`

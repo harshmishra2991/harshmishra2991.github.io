@@ -64,11 +64,11 @@ A log of software engineering resources — DSA, system design, Python, web deve
 
 ### Python Crash Course (Book — Eric Matthes)
 - **Date:** 2025-11-25 `#reference`
-- **Media:** [Python Crash Course PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000497-Python%20Crash%20Course%2C%203rd%20Edition%20-%20A%20Hands-On%2C%20Project-Based%20--%20Eric%20Matthes%20--%20(%20WeLib.org%20).pdf)
+- **Media:** `Python-Crash-Course-3rd-Ed-Matthes.pdf` *(local file)*
 
 ### Fluent Python (Luciano Ramalho — O'Reilly 2022)
 - **Date:** 2024-07-07 `#reference`
-- **Media:** [fluent-python.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000320-luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
+- **Media:** `fluent-python-ramalho-2022.pdf` *(local file)*
 
 ### Corey Schafer YouTube — All About Python
 - **Date:** 2024-05-21 `#reference`

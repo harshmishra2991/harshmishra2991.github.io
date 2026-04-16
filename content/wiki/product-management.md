@@ -95,15 +95,15 @@ A log of PM resources — frameworks, newsletters, Twitter threads, books, and t
 
 ### The Lindy PM Standard of Performance
 - **Date:** 2025-01-09 `#reference`
-- **Media:** [The Lindy PM Standard of Performance.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000431-The%20Lindy%20PM%20Standard%20of%20Performance.pdf)
+- **Media:** [The Lindy PM Standard of Performance.pdf](/wiki-pdfs/Lindy_PM_Standard_of_Performance.pdf)
 
 ### Netflix Culture Deck
 - **Date:** 2022-11-16 `#reference`
-- **Media:** [netflix_culture.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000102-netflix_culture.pdf)
+- **Media:** [netflix_culture.pdf](/wiki-pdfs/netflix_culture.pdf)
 
 ### Antler's Framework for Finding Problem-Solution Fit
 - **Date:** 2024-08-31 `#reference`
-- **Media:** [Antler Framework.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000366-Antler's%20Framework%20for%20Finding%20Problem-Solution%20Fit.pdf)
+- **Media:** [Antler Framework.pdf](/wiki-pdfs/Antler_Problem_Solution_Fit.pdf)
 
 ### PM Roadmap Book
 - **Date:** 2024-01-23 `#reference`
@@ -111,7 +111,7 @@ A log of PM resources — frameworks, newsletters, Twitter threads, books, and t
 
 ### Implementing Self-Service Reporting & BI — Complete Guide
 - **Date:** 2022-11-26 `#reference`
-- **Media:** [BI_Complete_Guide.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000109-Implementing_Self-Service_Reporting__BI_-_Complete_Guide.pdf)
+- **Media:** [BI_Complete_Guide.pdf](/wiki-pdfs/Self-Service_BI_Complete_Guide.pdf)
 
 ---
 

@@ -115,11 +115,11 @@ A curated log of AI/ML courses, papers, GitHub repos, tools, and roadmaps. Use `
 ### LLaMA 3 Paper
 - **Date:** 2024-07-25 `#reference`
 - **Note:** Meta's LLaMA 3 technical report
-- **Media:** [llama3.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000339-llama3.pdf)
+- **Media:** `llama3.pdf` *(local file)*
 
 ### Fluent Python (O'Reilly 2022)
 - **Date:** 2024-07-07 `#reference`
-- **Media:** [fluent-python.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000320-luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf)
+- **Media:** `fluent-python-ramalho-2022.pdf` *(local file)*
 
 ### LLM Learning Gist (veekaybee)
 - **Date:** 2024-03-20 `#reference`
@@ -190,7 +190,7 @@ A curated log of AI/ML courses, papers, GitHub repos, tools, and roadmaps. Use `
 - **Date:** 2025-10-13, 2025-10-27, 2026-03-05 `#reference`
 - **Note:** Machine Learning Systems textbook repo
 - **Source:** [github.com/harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
-- **Book:** [Machine-Learning-Systems.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000545-Machine-Learning-Systems.pdf)
+- **Book:** `Machine-Learning-Systems.pdf` *(local file)*
 
 ### Start Machine Learning (louisfb01)
 - **Date:** 2024-07-24 `#reference`
@@ -234,7 +234,7 @@ A curated log of AI/ML courses, papers, GitHub repos, tools, and roadmaps. Use `
 | 2025-06-25 | Stanford CS229 Reference | [x.com/percyliang](https://x.com/percyliang/status/1935458532037640211) | `#reference` |
 | 2025-01-01 | YC Startup Resources | [x.com/ycombinator](https://x.com/ycombinator/status/1935496106957488566?s=20) | `#reference` |
 | 2026-03-01 | ML Systems Research Paper (INFORMS) | [pubsonline.informs.org](https://pubsonline.informs.org/doi/full/10.1287/inte.2025.0282) | `#research` |
-| 2025-11-26 | IntroOptimization.pdf | [Local File](../../notes/WhatsApp%20Chat%20-%20Notes/00000500-IntroOptimization.pdf) | `#reference` |
+| 2025-11-26 | IntroOptimization.pdf | `IntroOptimization.pdf` *(local file)* | `#reference` |
 
 ---
 

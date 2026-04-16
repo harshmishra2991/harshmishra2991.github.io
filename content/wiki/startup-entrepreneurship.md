@@ -38,7 +38,7 @@ A log of startup ecosystems, side-project ideas, VC resources, and founder frame
 
 ### Antler's Framework for Finding Problem-Solution Fit
 - **Date:** 2024-08-31 `#reference`
-- **Media:** [Antler Framework.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000366-Antler's%20Framework%20for%20Finding%20Problem-Solution%20Fit.pdf)
+- **Media:** [Antler Framework.pdf](/wiki-pdfs/Antler_Problem_Solution_Fit.pdf)
 
 ---
 

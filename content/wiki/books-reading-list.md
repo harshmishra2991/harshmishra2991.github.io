@@ -64,12 +64,12 @@ A curated reading list extracted from notes — spanning ML/AI, engineering math
 
 | Title | Author(s) | Publisher | Year | Media | Tag |
 |-------|-----------|-----------|------|-------|-----|
-| Fluent Python | Luciano Ramalho | O'Reilly | 2022 | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000320-luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf) | `#reference` |
-| Python Crash Course (3rd Ed) | Eric Matthes | No Starch | 2022 | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000497-Python%20Crash%20Course%2C%203rd%20Edition%20-%20A%20Hands-On%2C%20Project-Based%20--%20Eric%20Matthes%20--%20(%20WeLib.org%20).pdf) | `#reference` |
+| Fluent Python | Luciano Ramalho | O'Reilly | 2022 | *(local file)* | `#reference` |
+| Python Crash Course (3rd Ed) | Eric Matthes | No Starch | 2022 | *(local file)* | `#reference` |
 | Hands-On Machine Learning (O'Reilly) | — | O'Reilly | — | [O'Reilly Library](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) | `#todo` |
 | Zero to Production in Rust | — | — | — | — | `#reference` |
-| Machine Learning Systems (cs249r) | Harvard Edge | — | — | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000545-Machine-Learning-Systems.pdf) | `#reference` |
-| IntroOptimization | — | — | — | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000500-IntroOptimization.pdf) | `#reference` |
+| Machine Learning Systems (cs249r) | Harvard Edge | — | — | *(local file)* | `#reference` |
+| IntroOptimization | — | — | — | *(local file)* | `#reference` |
 
 ---
 
@@ -77,10 +77,10 @@ A curated reading list extracted from notes — spanning ML/AI, engineering math
 
 | Title | Note | Media | Tag |
 |-------|------|-------|-----|
-| Fundamental Analysis — Module 3 | 172-page module | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000239-Module%203_Fundamental%20Analysis%20(1).pdf) | `#reference` |
-| The GPT Portfolio White Paper | AI-driven portfolio strategy | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000434-The%20GPT%20Portfolio%20White%20Paper.pdf) | `#reference` |
-| Inventory Optimization: Models & Simulations | 337 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000464-dokumen.pub_inventory-optimization-models-and-simulations-9783110673944-9783110673913-c-7212056.pdf) | `#reference` |
-| HDFC MF Yearbook 2026 | 53 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000527-HDFC%20MF%20-%20Yearbook%202026.pdf) | `#reference` |
+| Fundamental Analysis — Module 3 | 172-page module | *(local file)* | `#reference` |
+| The GPT Portfolio White Paper | AI-driven portfolio strategy | [PDF](/wiki-pdfs/GPT_Portfolio_White_Paper.pdf) | `#reference` |
+| Inventory Optimization: Models & Simulations | 337 pages | *(local file)* | `#reference` |
+| HDFC MF Yearbook 2026 | 53 pages | *(local file)* | `#reference` |
 
 ---
 
@@ -88,12 +88,12 @@ A curated reading list extracted from notes — spanning ML/AI, engineering math
 
 | Title | Note | Media | Tag |
 |-------|------|-------|-----|
-| The Lindy PM Standard of Performance | 17 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000431-The%20Lindy%20PM%20Standard%20of%20Performance.pdf) | `#reference` |
-| Netflix Culture Deck | 128 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000102-netflix_culture.pdf) | `#reference` |
-| Antler's Problem-Solution Fit Framework | 13 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000366-Antler's%20Framework%20for%20Finding%20Problem-Solution%20Fit.pdf) | `#reference` |
-| Hired Guide | 66 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000229-Hired_Guide.pdf) | `#reference` |
-| Implementing Self-Service Reporting & BI | 36 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000109-Implementing_Self-Service_Reporting__BI_-_Complete_Guide.pdf) | `#reference` |
-| Open Source Playbook | 26 pages | [PDF](../../notes/WhatsApp%20Chat%20-%20Notes/00000232-open_source_playbook.pdf) | `#reference` |
+| The Lindy PM Standard of Performance | 17 pages | [PDF](/wiki-pdfs/Lindy_PM_Standard_of_Performance.pdf) | `#reference` |
+| Netflix Culture Deck | 128 pages | [PDF](/wiki-pdfs/netflix_culture.pdf) | `#reference` |
+| Antler's Problem-Solution Fit Framework | 13 pages | [PDF](/wiki-pdfs/Antler_Problem_Solution_Fit.pdf) | `#reference` |
+| Hired Guide | 66 pages | [PDF](/wiki-pdfs/Hired_Guide.pdf) | `#reference` |
+| Implementing Self-Service Reporting & BI | 36 pages | [PDF](/wiki-pdfs/Self-Service_BI_Complete_Guide.pdf) | `#reference` |
+| Open Source Playbook | 26 pages | [PDF](/wiki-pdfs/open_source_playbook.pdf) | `#reference` |
 
 ---
 

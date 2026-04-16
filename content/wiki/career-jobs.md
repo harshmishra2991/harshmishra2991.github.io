@@ -13,7 +13,7 @@ A log of job listings, resume resources, interview prep, and career frameworks. 
 
 ### PM Interview Plan
 - **Date:** 2024-09-25 `#reference`
-- **Media:** [Product Manager - Interview Plan.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000379-Product%20Manager%20-%20Interview%20Plan%20.pdf)
+- **Media:** [Product Manager - Interview Plan.pdf](/wiki-pdfs/PM_Interview_Plan.pdf)
 
 ### PM Interview at OpenAI / xAI (Aakash Gupta)
 - **Date:** 2025-11-03 `#reference`
@@ -33,7 +33,7 @@ A log of job listings, resume resources, interview prep, and career frameworks. 
 
 ### Hired Guide (PDF)
 - **Date:** 2024-01-23 `#reference`
-- **Media:** [Hired_Guide.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000229-Hired_Guide.pdf)
+- **Media:** [Hired_Guide.pdf](/wiki-pdfs/Hired_Guide.pdf)
 
 ### Zalando — PM Interview Tips
 - **Date:** 2024-08-20 `#reference`
@@ -46,7 +46,7 @@ A log of job listings, resume resources, interview prep, and career frameworks. 
 
 ### Lindy PM Performance Standard
 - **Date:** 2025-01-09 `#reference`
-- **Media:** [The Lindy PM Standard of Performance.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000431-The%20Lindy%20PM%20Standard%20of%20Performance.pdf)
+- **Media:** [The Lindy PM Standard of Performance.pdf](/wiki-pdfs/Lindy_PM_Standard_of_Performance.pdf)
 
 ### Market Sizing — PM Interviews
 - **Date:** 2024-04-28 `#reference`
@@ -78,7 +78,7 @@ A log of job listings, resume resources, interview prep, and career frameworks. 
 
 ### Open Source Playbook
 - **Date:** 2024-01-26 `#reference`
-- **Media:** [open_source_playbook.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000232-open_source_playbook.pdf)
+- **Media:** [open_source_playbook.pdf](/wiki-pdfs/open_source_playbook.pdf)
 
 ---
 

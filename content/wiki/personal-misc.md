@@ -48,7 +48,7 @@ A catch-all log for miscellaneous bookmarks — health & fitness, travel/local, 
 
 ### Boxing Training Plan
 - **Date:** 2026-04-07 `#reference`
-- **Media:** [boxing_training_plan.pdf](../../notes/WhatsApp%20Chat%20-%20Notes/00000560-boxing_training_plan.pdf)
+- **Media:** [boxing_training_plan.pdf](/wiki-pdfs/boxing_training_plan.pdf)
 
 ### Hair Growth Thread
 - **Date:** 2024-09-11 `#research`
