@@ -29,3 +29,8 @@ name = "PMing"
 url = "/categories/pming/"
 weight = 3
 
+[[menu.main]]
+name = "Wiki"
+url = "/wiki/"
+weight = 4
+
