@@ -123,12 +123,12 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2024-07-25 &lt;code&gt;#reference&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Note:&lt;/strong&gt; Meta&amp;rsquo;s LLaMA 3 technical report&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media:&lt;/strong&gt; &lt;a href="../../notes/WhatsApp%20Chat%20-%20Notes/00000339-llama3.pdf"&gt;llama3.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media:&lt;/strong&gt; &lt;code&gt;llama3.pdf&lt;/code&gt; &lt;em&gt;(local file)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="fluent-python-oreilly-2022"&gt;Fluent Python (O&amp;rsquo;Reilly 2022)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2024-07-07 &lt;code&gt;#reference&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media:&lt;/strong&gt; &lt;a href="../../notes/WhatsApp%20Chat%20-%20Notes/00000320-luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf"&gt;fluent-python.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media:&lt;/strong&gt; &lt;code&gt;fluent-python-ramalho-2022.pdf&lt;/code&gt; &lt;em&gt;(local file)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="llm-learning-gist-veekaybee"&gt;LLM Learning Gist (veekaybee)&lt;/h3&gt;
 &lt;ul&gt;
@@ -213,7 +213,7 @@
 &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-13, 2025-10-27, 2026-03-05 &lt;code&gt;#reference&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Note:&lt;/strong&gt; Machine Learning Systems textbook repo&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href="https://github.com/harvard-edge/cs249r_book"&gt;github.com/harvard-edge/cs249r_book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Book:&lt;/strong&gt; &lt;a href="../../notes/WhatsApp%20Chat%20-%20Notes/00000545-Machine-Learning-Systems.pdf"&gt;Machine-Learning-Systems.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Book:&lt;/strong&gt; &lt;code&gt;Machine-Learning-Systems.pdf&lt;/code&gt; &lt;em&gt;(local file)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="start-machine-learning-louisfb01"&gt;Start Machine Learning (louisfb01)&lt;/h3&gt;
 &lt;ul&gt;
@@ -336,7 +336,7 @@
 &lt;tr&gt;
 &lt;td&gt;2025-11-26&lt;/td&gt;
 &lt;td&gt;IntroOptimization.pdf&lt;/td&gt;
-&lt;td&gt;&lt;a href="../../notes/WhatsApp%20Chat%20-%20Notes/00000500-IntroOptimization.pdf"&gt;Local File&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;IntroOptimization.pdf&lt;/code&gt; &lt;em&gt;(local file)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;&lt;code&gt;#reference&lt;/code&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
