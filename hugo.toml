@@ -11,7 +11,11 @@ description = "Product, investing, systems thinking"
 author = "Harsh Mishra"
 defaultTheme = "light"
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/harsh-mishra-722675128/"
 
 [[menu.main]]
 name = "Blog"
