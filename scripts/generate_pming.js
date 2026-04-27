@@ -294,19 +294,6 @@ async function main() {
     selected.push(candidate);
   }
 
-  // If we don't have 5 yet, fill from all candidates (allowing duplicates per source)
-  if (selected.length < MAX_ARTICLES) {
-    const selectedLinks = new Set(selected.map((s) => s.link));
-    const remaining = allCandidates
-      .filter((c) => !selectedLinks.has(c.link))
-      .sort((a, b) => b.score - a.score);
-
-    for (const candidate of remaining) {
-      if (selected.length >= MAX_ARTICLES) break;
-      selected.push(candidate);
-    }
-  }
-
   // Final sort by score descending
   selected.sort((a, b) => b.score - a.score);
 

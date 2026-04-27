@@ -1,5 +1,20 @@
 [
   {
+    "name": "Lenny's Newsletter",
+    "url": "https://www.lennysnewsletter.com/",
+    "feed": "https://www.lennysnewsletter.com/feed"
+  },
+  {
+    "name": "Bring the Donuts",
+    "url": "https://www.bringthedonuts.com/",
+    "feed": "https://www.bringthedonuts.com/feed.xml"
+  },
+  {
+    "name": "Department of Product",
+    "url": "https://www.departmentofproduct.com/",
+    "feed": "https://www.departmentofproduct.com/feed/"
+  },
+  {
     "name": "Marily Nika",
     "url": "https://marily.substack.com/",
     "feed": "https://marily.substack.com/feed"
